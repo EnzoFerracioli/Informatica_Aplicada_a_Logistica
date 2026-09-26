@@ -40,7 +40,7 @@ Além disso, serviu como uma introdução relevante para as atividades seguintes
 
 ## Análise e Elaboração de Perguntas com os dados de Sinistros no Mês de Julho em São Paulo
 
-<img width="1216" height="591" alt="Dados de despesa pessoal de Brumadinho" src="https://github.com/user-attachments/assets/c8ed0113-75bf-43d0-a664-6aa71f19cef9" />
+<img width="940" height="460" alt="Captura de tela 2026-09-26 142835" src="https://github.com/user-attachments/assets/19d8b40e-b617-4947-98ea-928b3b9dc444" />
 
 [**Acessar Planilha utilizada na atividade**](./despesa-pessoal-acordo-judicial-brumadinho.xlsx)
 
