@@ -6,7 +6,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 
 - [Apresentação Pessoal em equipe](#apresentação-pessoal-em-equipe)
 - [Elaboração de gráficos e tabelas com os Dados Abertos da ANTT](#elaboração-de-gráficos-e-tabelas-com-os-dados-abertos-da-antt)
-- [Análise e Elaboração de Perguntas com os dados de Sinistros no Mês de Julho em São Paulo](#análise-e-elaboração-de-perguntas-com-os-dados-de-sinisros-no-mês-de-julho-em-São-Paulo)
+- [Análise e Elaboração de Perguntas com os dados de Sinistros no Mês de Julho em São Paulo](#análise-e-elaboração-de-perguntas-com-os-dados-de-sinisros-no-mês-de-julho-em-são-paulo)
 - [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
 - [Elaboração de gráficos no Power BI com os dados de Brumadinho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
 
