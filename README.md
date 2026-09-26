@@ -26,7 +26,7 @@ Durante o processo, não bastou apenas falar sobre mim mesmo: foi preciso també
 
 ## Elaboração de gráficos e tabelas com os Dados Abertos da ANTT
 
-<img width="816" height="570" alt="Dados abertos da ANTT" src="https://github.com/user-attachments/assets/29975f26-65d9-46fc-a4ab-fed324add0fb" />
+<img width="1581" height="530" alt="image" src="https://github.com/user-attachments/assets/974e0226-42de-4a32-ba80-f61c9a5c828a" />
 
 [**Acessar planilha utilizada na atividade**](./operador_transporte_multimodal.xlsx)
 
