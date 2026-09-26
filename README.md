@@ -42,7 +42,7 @@ Além disso, serviu como uma introdução relevante para as atividades seguintes
 
 <img width="940" height="460" alt="Captura de tela 2026-09-26 142835" src="https://github.com/user-attachments/assets/19d8b40e-b617-4947-98ea-928b3b9dc444" />
 
-[**Acessar Planilha utilizada na atividade**](./despesa-pessoal-acordo-judicial-brumadinho.xlsx)
+[**Acessar Planilha utilizada na atividade**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/SINISTROS%20TABELA%20ENZO%20FERRACIOLI.xlsx)
 
 Nessa atividade, eu trabalhei novamente no Excel, mas dessa vez utilizando uma base de dados relacionada às despesas pessoais do acordo judicial de Brumadinho.
 
