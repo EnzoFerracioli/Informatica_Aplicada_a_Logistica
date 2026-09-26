@@ -28,7 +28,7 @@ Durante o processo, não bastou apenas falar sobre mim mesmo: foi preciso també
 
 <img width="1581" height="530" alt="image" src="https://github.com/user-attachments/assets/974e0226-42de-4a32-ba80-f61c9a5c828a" />
 
-[**Acessar planilha utilizada na atividade**](./operador_transporte_multimodal.xlsx)
+[**Acessar planilha utilizada na atividade**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Trabalho%20multimodal%20Enzo%20Ferracioli.xlsx))
 
 Nessa atividade, eu comecei a trabalhar com uma base de dados da ANTT utilizando o Excel.
 
