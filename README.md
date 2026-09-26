@@ -44,11 +44,11 @@ Além disso, serviu como uma introdução relevante para as atividades seguintes
 
 [**Acessar Planilha utilizada na atividade**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/SINISTROS%20TABELA%20ENZO%20FERRACIOLI.xlsx)
 
-Nessa atividade, eu trabalhei novamente no Excel, mas dessa vez utilizando uma base de dados relacionada às despesas pessoais do acordo judicial de Brumadinho.
+Trabalhando novamente com o Excel, desta vez utilizando uma base de dados relacionada às despesas pessoais do acordo judicial de Brumadinho.
 
-Primeiro, eu analisei as informações disponíveis na planilha e depois elaborei perguntas que poderiam ser respondidas utilizando os próprios dados.
+Inicialmente, analisei as informações disponíveis na planilha e, a partir delas, elaborei perguntas que pudessem ser respondidas com base nos próprios dados.
 
-Para encontrar essas respostas, eu utilizei fórmulas, tabelas e gráficos. Essa atividade me ajudou a perceber que não basta apenas criar um gráfico, mas também é necessário saber o que procurar nos dados e como interpretar as informações apresentadas.
+Para chegar às respostas, utilizei fórmulas, tabelas e gráficos. Essa atividade me fez perceber que não basta apenas criar um gráfico: é preciso também saber o que buscar nos dados e como interpretar corretamente as informações apresentadas.
 
 ---
 
@@ -56,4 +56,10 @@ Para encontrar essas respostas, eu utilizei fórmulas, tabelas e gráficos. Essa
 
 <img width="1127" height="627" alt="image" src="https://github.com/user-attachments/assets/9fa9dd1c-8ab6-421b-9a90-2c259e60f693" />
 
-[**Acessar arquivo do Power BI**](./EmpresasMultimodais%20Power%20BI.pbix)
+[**Acessar arquivo do Power BI**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Trabalho%20Empresas%20MultiModais%20Power%20BI.pbix)
+
+Nesta atividade, trabalhei com a base de dados da ANTT novamente, mas dessa vez utilizando o Power BI para a elaboração de gráficos.
+
+Primeiro, importei os dados para a ferramenta e explorei os recursos disponíveis para organizar as informações de forma mais dinâmica. Em seguida, criei diferentes tipos de gráficos e visualizações, buscando destacar os principais pontos presentes na base de dados.
+
+Essa atividade foi importante para eu conhecer uma ferramenta diferente do Excel, percebendo as vantagens do Power BI na criação de dashboards mais interativos e na visualização de dados de forma mais dinâmica e integrada.
