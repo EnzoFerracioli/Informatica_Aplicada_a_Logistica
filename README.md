@@ -14,7 +14,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 
 ## Apresentação Pessoal em equipe
 
-<img width="1680" height="942" alt="Apresentação pessoal em equipe" src="https://github.com/user-attachments/assets/5b5da1d2-0da1-4a37-865b-b485f012e342" />
+<img width="985" height="552" alt="image" src="https://github.com/user-attachments/assets/a9605722-22d8-429d-be9c-8ac191a4734c" />
 
 [**Acessar apresentação completa**](Apresentação_Pessoal_em_Equipe.pdf)
 
