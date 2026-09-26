@@ -1,6 +1,6 @@
 # Informática Aplicada à Logística
 
-Este repositório reúne algumas das atividades que desenvolvi durante a disciplina de Informática Aplicada à Logística. Durante as aulas, fui trabalhando com diferentes ferramentas, principalmente Excel e Power BI, e cada atividade acabou me ajudando a entender melhor a próxima.
+Este repositório reúne parte das atividades desenvolvidas ao longo da disciplina de Informática Aplicada à Logística. Durante as aulas, tive contato com diferentes ferramentas, principalmente Excel e Power BI, sendo que cada atividade contribuiu para uma melhor compreensão da seguinte.
 
 ## Índice
 
