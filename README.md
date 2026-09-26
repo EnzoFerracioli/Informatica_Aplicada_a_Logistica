@@ -8,7 +8,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 - [Elaboração de gráficos e tabelas com os Dados Abertos da ANTT](#elaboração-de-gráficos-e-tabelas-com-os-dados-abertos-da-antt)
 - [Análise e Elaboração de Perguntas com os dados de Sinistros no Mês de Julho em São Paulo](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/README.md#elabora%C3%A7%C3%A3o-de-gr%C3%A1ficos-e-tabelas-com-os-dados-abertos-da-antt)
 - [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
-- [Elaboração de gráficos no Power BI com os dados de Brumadinho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
+- [Elaboração de gráficos no Power BI com os dados de Sinistros Em São Paulo no mês de julho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
 
 ---
 
@@ -60,6 +60,14 @@ Para chegar às respostas, utilizei fórmulas, tabelas e gráficos. Essa ativida
 
 Nesta atividade, trabalhei com a base de dados da ANTT novamente, mas dessa vez utilizando o Power BI para a elaboração de gráficos.
 
-Primeiro, importei os dados para a ferramenta e explorei os recursos disponíveis para organizar as informações de forma mais dinâmica. Em seguida, criei diferentes tipos de gráficos e visualizações, buscando destacar os principais pontos presentes na base de dados.
+---
 
-Essa atividade foi importante para eu conhecer uma ferramenta diferente do Excel, percebendo as vantagens do Power BI na criação de dashboards mais interativos e na visualização de dados de forma mais dinâmica e integrada.
+## Elaboração de gráficos no Power BI com dados de Sinistros em São Paulo no Mês de Julho
+
+<img width="1081" height="587" alt="image" src="https://github.com/user-attachments/assets/095a5e2e-a24e-4325-9bd8-8bfa637dc357" />
+
+[**Acessar arquivo do Power BI**]
+
+Primeiramente, importei os dados para a ferramenta e explorei seus recursos, buscando organizar as informações de maneira mais dinâmica. Na sequência, elaborei diferentes tipos de gráficos e visualizações, com o objetivo de destacar os principais pontos presentes na base de dados.
+
+Essa atividade foi importante para que eu conhecesse uma ferramenta diferente do Excel, permitindo perceber as vantagens do Power BI na criação de dashboards mais interativos, além de possibilitar uma visualização de dados mais dinâmica e integrada.
