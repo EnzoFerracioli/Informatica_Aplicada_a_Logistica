@@ -28,13 +28,13 @@ Durante o processo, não bastou apenas falar sobre mim mesmo: foi preciso també
 
 <img width="1581" height="530" alt="image" src="https://github.com/user-attachments/assets/974e0226-42de-4a32-ba80-f61c9a5c828a" />
 
-[**Acessar planilha utilizada na atividade**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Trabalho%20multimodal%20Enzo%20Ferracioli.xlsx))
+[**Acessar planilha utilizada na atividade**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Trabalho%20multimodal%20Enzo%20Ferracioli.xlsx)
 
-Nessa atividade, eu comecei a trabalhar com uma base de dados da ANTT utilizando o Excel.
+Já nesta atividade, iniciei o trabalho com uma base de dados da ANTT utilizando o Excel. A partir desses dados, elaborei tabelas, gráficos e realizei algumas análises estatísticas.
 
-A partir dos dados, eu criei tabelas, gráficos e fiz algumas análises estatísticas. Essa atividade foi importante para eu entender melhor como organizar uma quantidade maior de informações e como transformar os dados da planilha em algo mais visual e fácil de interpretar.
+Essa experiência foi importante para compreender melhor como organizar um volume maior de informações e como transformar dados de uma planilha em representações visuais, mais fáceis de interpretar.
 
-Também foi uma introdução importante para as próximas atividades, porque comecei a ter mais contato com análise de dados e criação de gráficos.
+Além disso, serviu como uma introdução relevante para as atividades seguintes, já que passei a ter mais contato com análise de dados e criação de gráficos.
 
 ---
 
