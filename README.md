@@ -6,7 +6,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 
 - [Apresentação Pessoal em equipe](#apresentação-pessoal-em-equipe)
 - [Elaboração de gráficos e tabelas com os Dados Abertos da ANTT](#elaboração-de-gráficos-e-tabelas-com-os-dados-abertos-da-antt)
-- [Análise e Elaboração de Perguntas com os dados de Despesa Pessoal de Brumadinho](#análise-e-elaboração-de-perguntas-com-os-dados-de-despesa-pessoal-de-brumadinho)
+- [Análise e Elaboração de Perguntas com os dados de Sinistros no Mês de Julho em São Paulo](#análise-e-elaboração-de-perguntas-com-os-dados-de-despesa-pessoal-de-brumadinho)
 - [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
 - [Elaboração de gráficos no Power BI com os dados de Brumadinho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
 
@@ -38,7 +38,7 @@ Além disso, serviu como uma introdução relevante para as atividades seguintes
 
 ---
 
-## Análise e Elaboração de Perguntas com os dados de Despesa Pessoal de Brumadinho
+## Análise e Elaboração de Perguntas com os dados de Sinistros no Mês de Julho em São Paulo
 
 <img width="1216" height="591" alt="Dados de despesa pessoal de Brumadinho" src="https://github.com/user-attachments/assets/c8ed0113-75bf-43d0-a664-6aa71f19cef9" />
 
