@@ -54,6 +54,6 @@ Para encontrar essas respostas, eu utilizei fórmulas, tabelas e gráficos. Essa
 
 ## Elaboração de gráficos no Power BI com os dados da ANTT
 
-<img width="771" height="428" alt="Power BI com dados da ANTT" src="https://github.com/user-attachments/assets/0a8fc1a8-3750-4e9f-b137-70cc020a1e64" />
+<img width="1147" height="632" alt="image" src="https://github.com/user-attachments/assets/b9191f1e-45a5-454e-a669-0d1341bb5ef9" />
 
 [**Acessar arquivo do Power BI**](./EmpresasMultimodais%20Power%20BI.pbix)
