@@ -16,7 +16,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 
 <img width="985" height="552" alt="image" src="https://github.com/user-attachments/assets/a9605722-22d8-429d-be9c-8ac191a4734c" />
 
-[**Acessar apresentação completa**](([https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/5e63dfe869b158af620b9b2fec7d13fd6eee88f4/Apresenta%C3%A7%C3%A3o%20Pessoal%20em%20Equipe.pdf))
+[**Acessar apresentação completa**]([https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/5e63dfe869b158af620b9b2fec7d13fd6eee88f4/Apresenta%C3%A7%C3%A3o%20Pessoal%20em%20Equipe.pdf)
 
 A primeira atividade consistiu em uma dinâmica de apresentação pessoal conduzida em grupo. Apesar da proposta ser relativamente simples, ela se mostrou eficaz para estimular competências como comunicação, organização e cooperação entre os participantes.
 
