@@ -66,7 +66,7 @@ Nesta atividade, trabalhei com a base de dados da ANTT novamente, mas dessa vez 
 
 <img width="1081" height="587" alt="image" src="https://github.com/user-attachments/assets/095a5e2e-a24e-4325-9bd8-8bfa637dc357" />
 
-[**Acessar arquivo do Power BI**]
+[**Acessar arquivo do Power BI**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Power%20BI%20Sinistros%20Enzo%20Ferracioli.pbix)
 
 Primeiramente, importei os dados para a ferramenta e explorei seus recursos, buscando organizar as informações de maneira mais dinâmica. Na sequência, elaborei diferentes tipos de gráficos e visualizações, com o objetivo de destacar os principais pontos presentes na base de dados.
 
