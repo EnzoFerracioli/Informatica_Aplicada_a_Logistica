@@ -18,9 +18,9 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 
 [**Acessar apresentação completa**]([./Apresentação-Pessoal-em-Equipe.pdf](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/5e63dfe869b158af620b9b2fec7d13fd6eee88f4/Apresenta%C3%A7%C3%A3o%20Pessoal%20em%20Equipe.pdf))
 
-Nessa primeira atividade, eu participei de uma apresentação pessoal em equipe. Foi uma atividade mais simples, mas que ajudou bastante no desenvolvimento da comunicação, organização e trabalho em grupo.
+A primeira atividade consistiu em uma dinâmica de apresentação pessoal conduzida em grupo. Apesar da proposta ser relativamente simples, ela se mostrou eficaz para estimular competências como comunicação, organização e cooperação entre os participantes.
 
-Além de apresentar um pouco sobre mim, também precisei colaborar com os outros integrantes para organizar o conteúdo e deixar a apresentação com uma sequência que fizesse sentido.
+Durante o processo, não bastou apenas falar sobre mim mesmo: foi preciso também alinhar ideias com os colegas, definindo em conjunto como o conteúdo seria estruturado, de modo que a apresentação tivesse fluidez e fizesse sentido do início ao fim.
 
 ---
 
