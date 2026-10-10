@@ -77,7 +77,6 @@ Essa atividade foi importante para que eu conhecesse uma ferramenta diferente do
 
 <img width="1091" height="577" alt="image" src="https://github.com/user-attachments/assets/d7744bfe-3221-4e09-ab0c-0fda7b7d5f81" />
 
-Vinculei imagens aos turnos relacionados a sinistros em Julho em São Paulo usando o Power BI.
-
 [**Acessar arquivos do POWER BI**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Power%20BI%20Sinistros%20Enzo%20Ferracioli%20Com%20Png.pbix)
 
+Vinculei imagens aos turnos relacionados a sinistros em Julho em São Paulo usando o Power BI.
