@@ -71,3 +71,8 @@ Nesta atividade, trabalhei com a base de dados da ANTT novamente, mas dessa vez 
 Primeiramente, importei os dados para a ferramenta e explorei seus recursos, buscando organizar as informações de maneira mais dinâmica. Na sequência, elaborei diferentes tipos de gráficos e visualizações, com o objetivo de destacar os principais pontos presentes na base de dados.
 
 Essa atividade foi importante para que eu conhecesse uma ferramenta diferente do Excel, permitindo perceber as vantagens do Power BI na criação de dashboards mais interativos, além de possibilitar uma visualização de dados mais dinâmica e integrada.
+
+## Vinculando Imagens ao Dashboard No Power BI com dados de sinistros em São Paulo no Mês de Julho.
+
+<img width="1091" height="577" alt="image" src="https://github.com/user-attachments/assets/d7744bfe-3221-4e09-ab0c-0fda7b7d5f81" />
+
