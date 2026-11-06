@@ -10,7 +10,7 @@ Este repositório reúne parte das atividades desenvolvidas ao longo da discipli
 - [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
 - [Elaboração de gráficos no Power BI com os dados de Sinistros Em São Paulo no mês de julho](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/README.md#elabora%C3%A7%C3%A3o-de-gr%C3%A1ficos-no-power-bi-com-dados-de-sinistros-em-s%C3%A3o-paulo-no-m%C3%AAs-de-julho)
 - [Vinculando Imagens ao Dashboard No Power BI com dados de sinistros em São Paulo no Mês de Julho](#vinculando-imagens-ao-dashboard-no-power-bi-com-dados-de-sinistros-em-s%C3%A3o-paulo-no-m%C3%AAs-de-julho)
-- [Elabração de dashboard com base na expectativa de vida no mundo](#
+- [Elabração de dashboard com base na expectativa de vida no mundo](#elaboração-de-dashboard-sobre-expectativa-de-vida-no-power-bi)
 
 ---
 
@@ -74,6 +74,8 @@ Primeiramente, importei os dados para a ferramenta e explorei seus recursos, bus
 
 Essa atividade foi importante para que eu conhecesse uma ferramenta diferente do Excel, permitindo perceber as vantagens do Power BI na criação de dashboards mais interativos, além de possibilitar uma visualização de dados mais dinâmica e integrada.
 
+---
+
 ## Vinculando Imagens ao Dashboard No Power BI com dados de sinistros em São Paulo no Mês de Julho.
 
 <img width="1091" height="577" alt="image" src="https://github.com/user-attachments/assets/d7744bfe-3221-4e09-ab0c-0fda7b7d5f81" />
@@ -81,6 +83,8 @@ Essa atividade foi importante para que eu conhecesse uma ferramenta diferente do
 [**Acessar arquivos do POWER BI**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Power%20BI%20Sinistros%20Enzo%20Ferracioli%20Com%20Png.pbix)
 
 Vinculei imagens aos turnos relacionados a sinistros em Julho em São Paulo usando o Power BI.
+
+---
 
 ## Elaboração de Dashboard sobre Expectativa de Vida no Power BI
 
@@ -90,4 +94,4 @@ Vinculei imagens aos turnos relacionados a sinistros em Julho em São Paulo usan
 
 Com base na base de dados sobre expectativa de vida em diversos países, elaborei um dashboard onde conseguimos analisar e interpretar diversas informações.
 
-
+---
