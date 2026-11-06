@@ -98,16 +98,17 @@ Com base na base de dados sobre expectativa de vida em diversos países, elabore
 
 ## Regressão Linear com horas de estudo e notas dos Alunos
 
-<img width="1672" height="941" alt="comparação da regressão" src="https://github.com/user-attachments/assets/91ffa23c-072b-44ee-b0b1-296fd612e67e" />
+<img width="1672" height="941" alt="Dashboard de Regressão Linear em Excel e Colab" src="https://github.com/user-attachments/assets/f5315458-e3fe-4331-b0db-53a2569dd194" />
 
 [**Acessar arquivos do Excel**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Notas%20Alunos%20x%20Tempo%20de%20Estudo.xlsx)
+
 [**Acessar arquivos do Google Colab**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Notas_Alunos_x_Tempo_de_Estudo.ipynb)
 
 Nesta atividade, usei uma base de dados pública com as notas de 200 estudantes (fonte) para investigar se mais horas de estudo estão associadas a notas maiores. Primeiro fiz a análise no Excel e depois repliquei o modelo no Google Colab, para comparar os resultados.
 
 Equação da reta: nota = 23,618 + 1,6341 × horas de estudo
 
-# Mais horas de estudo estão associadas a notas maiores?  
+### Mais horas de estudo estão associadas a notas maiores?  
 
 Sim. Cada hora extra de estudo está associada a cerca de 1,6 ponto a mais na nota, e o R² de 0,60 indica que as horas de estudo explicam cerca de 60% da variação das notas. Isso mostra associação, não prova que o estudo sozinho, garante a nota.
 
