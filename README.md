@@ -11,6 +11,7 @@ Este repositório reúne parte das atividades desenvolvidas ao longo da discipli
 - [Elaboração de gráficos no Power BI com os dados de Sinistros Em São Paulo no mês de julho](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/README.md#elabora%C3%A7%C3%A3o-de-gr%C3%A1ficos-no-power-bi-com-dados-de-sinistros-em-s%C3%A3o-paulo-no-m%C3%AAs-de-julho)
 - [Vinculando Imagens ao Dashboard No Power BI com dados de sinistros em São Paulo no Mês de Julho](#vinculando-imagens-ao-dashboard-no-power-bi-com-dados-de-sinistros-em-s%C3%A3o-paulo-no-m%C3%AAs-de-julho)
 - [Elabração de dashboard com base na expectativa de vida no mundo](#elaboração-de-dashboard-sobre-expectativa-de-vida-no-power-bi)
+- [Regressão Linear com Horas de Estudo e Notas dos Alunos](#regressão-linear-com-horas-de-estudo-e-notas-dos-alunos)
 
 ---
 
