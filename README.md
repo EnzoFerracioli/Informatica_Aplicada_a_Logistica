@@ -119,7 +119,7 @@ Essa atividade me mostrou que a mesma análise pode ser feita de formas diferent
 
 ## Dashboard com a base de dados de Investimentos Captados - SEADE
 
-<img width="1435" height="805" alt="image" src="https://github.com/user-attachments/assets/481c35bf-c55e-41b0-8f5c-46a5d5ebf699" />
+<img width="1435" height="807" alt="image" src="https://github.com/user-attachments/assets/5d29fc4c-14bf-4639-ac51-22b6c3dce558" />
 
 [**Acessar arquivos do POWER BI**](#dashboard-com-a-base-de-dados-de-investimentos-captados---seade)
 
