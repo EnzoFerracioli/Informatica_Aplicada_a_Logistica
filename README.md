@@ -114,3 +114,9 @@ Equação da reta: nota = 23,618 + 1,6341 × horas de estudo
 Sim. Cada hora extra de estudo está associada a cerca de 1,6 ponto a mais na nota, e o R² de 0,60 indica que as horas de estudo explicam cerca de 60% da variação das notas. Isso mostra associação, não prova que o estudo sozinho, garante a nota.
 
 Essa atividade me mostrou que a mesma análise pode ser feita de formas diferentes, com resultados equivalentes, e que o valor do R² ajuda a entender o quanto a variável explica de fato o resultado.
+
+---
+
+## Dashboard com a base de dados de Investimentos Captados - SEADE
+
+<img width="1435" height="805" alt="image" src="https://github.com/user-attachments/assets/481c35bf-c55e-41b0-8f5c-46a5d5ebf699" />
