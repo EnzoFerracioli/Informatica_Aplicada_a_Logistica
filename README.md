@@ -123,5 +123,6 @@ Essa atividade me mostrou que a mesma análise pode ser feita de formas diferent
 <img width="1435" height="807" alt="image" src="https://github.com/user-attachments/assets/5d29fc4c-14bf-4639-ac51-22b6c3dce558" />
 
 [**Acessar arquivo do POWER BI**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/DashBoard%20Prova%20de%20Inform%C3%A1tica.pbix)
+[**Acessar Vídeo do Dashboard em Ação**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/Dashboard%20Investimentos%20Captados%20em%20A%C3%A7%C3%A3o.mp4)
 
 Nesta avaliação, depois de entender a base de dados fiz um dashboard onde visualizo um mapa geográfico mostrando onde há o maior número de investimentos, gráficos relacionando município com  setor econômico envolvido.
