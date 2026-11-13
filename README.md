@@ -12,7 +12,7 @@ Este repositório reúne parte das atividades desenvolvidas ao longo da discipli
 - [Vinculando Imagens ao Dashboard No Power BI com dados de sinistros em São Paulo no Mês de Julho](#vinculando-imagens-ao-dashboard-no-power-bi-com-dados-de-sinistros-em-s%C3%A3o-paulo-no-m%C3%AAs-de-julho)
 - [Elabração de dashboard com base na expectativa de vida no mundo](#elaboração-de-dashboard-sobre-expectativa-de-vida-no-power-bi)
 - [Regressão Linear com Horas de Estudo e Notas dos Alunos](#regressão-linear-com-horas-de-estudo-e-notas-dos-alunos)
-- [Dashboard Investimentos Captados](#dashboard-com-a-base-de-dados-de-investimentos-captados---seade)
+- [Dashboard Investimentos Captados - SEADE](#dashboard-com-a-base-de-dados-de-investimentos-captados---seade)
 
 ---
 
