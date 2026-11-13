@@ -12,6 +12,7 @@ Este repositório reúne parte das atividades desenvolvidas ao longo da discipli
 - [Vinculando Imagens ao Dashboard No Power BI com dados de sinistros em São Paulo no Mês de Julho](#vinculando-imagens-ao-dashboard-no-power-bi-com-dados-de-sinistros-em-s%C3%A3o-paulo-no-m%C3%AAs-de-julho)
 - [Elabração de dashboard com base na expectativa de vida no mundo](#elaboração-de-dashboard-sobre-expectativa-de-vida-no-power-bi)
 - [Regressão Linear com Horas de Estudo e Notas dos Alunos](#regressão-linear-com-horas-de-estudo-e-notas-dos-alunos)
+- [Dashboard Investimentos Captados](#dashboard-com-a-base-de-dados-de-investimentos-captados---seade)
 
 ---
 
@@ -121,6 +122,6 @@ Essa atividade me mostrou que a mesma análise pode ser feita de formas diferent
 
 <img width="1435" height="807" alt="image" src="https://github.com/user-attachments/assets/5d29fc4c-14bf-4639-ac51-22b6c3dce558" />
 
-[**Acessar arquivo do POWER BI**](#dashboard-com-a-base-de-dados-de-investimentos-captados---seade)
+[**Acessar arquivo do POWER BI**](https://github.com/EnzoFerracioli/Informatica_Aplicada_a_Logistica/blob/main/DashBoard%20Prova%20de%20Inform%C3%A1tica.pbix)
 
 Nesta avaliação, depois de entender a base de dados fiz um dashboard onde visualizo um mapa geográfico mostrando onde há o maior número de investimentos, gráficos relacionando município com  setor econômico envolvido.
