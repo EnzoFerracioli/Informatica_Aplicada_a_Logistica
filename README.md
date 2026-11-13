@@ -121,6 +121,6 @@ Essa atividade me mostrou que a mesma análise pode ser feita de formas diferent
 
 <img width="1435" height="807" alt="image" src="https://github.com/user-attachments/assets/5d29fc4c-14bf-4639-ac51-22b6c3dce558" />
 
-[**Acessar arquivos do POWER BI**](#dashboard-com-a-base-de-dados-de-investimentos-captados---seade)
+[**Acessar arquivo do POWER BI**](#dashboard-com-a-base-de-dados-de-investimentos-captados---seade)
 
 Nesta avaliação, depois de entender a base de dados fiz um dashboard onde visualizo um mapa geográfico mostrando onde há o maior número de investimentos, gráficos relacionando município com  setor econômico envolvido.
